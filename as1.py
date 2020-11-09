@@ -21,19 +21,7 @@ Code Below  """
 #We are taking input from keyboard and storing it in num in an integer
 num = int(input())
 
-#__________________________________________________________________________________________________________________________________
-"""Coding Activity 2: Integer Input from keyboard**
-
-Print 'Enter a Number'
-Take integer input from the keyboard and Store it in a variable num
-Print 'The number you entered is' and value in the container num
-
-Code Belo w """
-
-
-
-
-#__________________________________________________________________________________________________________________________________
+#_________________________________________________________________________________________________________________________________
 """Coding Activity 3: Integer Input from keyboard
 
 Print 'Enter a Number'
